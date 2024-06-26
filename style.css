@@ -1,0 +1,20 @@
+* {
+    outline: 1px soid orangered;
+}
+
+:root {
+    --primary-clr: rgb(238, 243, 247);
+    --accent: rgba(75, 112, 144, 0.315);
+
+    --light: rgb(255, 255, 255);
+    --dark: rgb(61, 67, 85);
+}
+
+.flex {
+    display: flex;
+}
+
+.container {
+    width: 60rem;
+    margin-inline: auto;
+}
